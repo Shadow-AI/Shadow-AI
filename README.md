@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadow-AI
-- 👀 I’m interested in Databases and Django Web Dev and Product Management
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Product Management and Software Development
+- 🌱 I’m currently a student at Carnegie Mellon University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deepanshub@cmu.edu
 

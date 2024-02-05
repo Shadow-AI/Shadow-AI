@@ -5,7 +5,7 @@
 - 📫 How to reach me deepanshub@cmu.edu
 
 # Currently Working on
-- A react application integrated with Google Gemini for generation of short interactive stories
+- A react application integrated with Google Gemini for generation of short interactive stories (https://github.com/Shadow-AI/gemini.git)
 - With easy access to Gen AIs, I wanted to create something simple, inspired from the AiDungeon app, which was popular about 5 years ago
 
 <!---
